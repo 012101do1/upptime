@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.0121.org): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [012101do1](https://status.0121.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [0121.org](https://status.0121.org), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/012101do1/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/012101do1/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/012101do1/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/012101do1/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
