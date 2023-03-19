@@ -4,19 +4,19 @@
     "url": "https://0121.org",
     "icon": "https://icons.duckduckgo.com/ip3/0121.org.ico",
     "slug": "0121-org",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 292,
     "timeDay": 298,
     "timeWeek": 297,
     "timeMonth": 292,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2023-03-19": 10
+      "2023-03-19": 4
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://jellyfin.0121.org",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.0121.org.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 396,
     "timeDay": 423,
     "timeWeek": 368,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2023-03-19": 9
+      "2023-03-19": 2
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://ombi.0121.org",
     "icon": "https://icons.duckduckgo.com/ip3/ombi.0121.org.ico",
     "slug": "ombi",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 257,
     "timeWeek": 235,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2023-03-19": 7
+      "2023-03-19": 1
     }
   },
   {
@@ -65,19 +65,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.0121.org.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 503,
     "timeDay": 499,
     "timeWeek": 502,
     "timeMonth": 503,
     "timeYear": 503,
-    "dailyMinutesDown": {
-      "2023-03-19": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pterodactyl",
@@ -85,18 +83,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.0121.org.ico",
     "slug": "pterodactyl",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 1374,
     "timeDay": 312,
     "timeWeek": 576,
     "timeMonth": 1374,
     "timeYear": 1374,
     "dailyMinutesDown": {
-      "2023-03-19": 4,
       "2023-03-03": 28
     }
   }
