@@ -1,7 +1,7 @@
 url: https://nextcloud.0121.org
-status: down
-code: 502
-responseTime: 3398
-lastUpdated: 2024-01-01T06:12:33.678Z
+status: up
+code: 200
+responseTime: 1045
+lastUpdated: 2024-01-01T06:29:23.487Z
 startTime: 2023-03-03T04:37:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
