@@ -1,7 +1,7 @@
 url: https://jellyfin.0121.org
-status: down
-code: 502
-responseTime: 550
-lastUpdated: 2024-02-22T16:28:06.489Z
+status: up
+code: 200
+responseTime: 785
+lastUpdated: 2024-02-22T16:35:27.282Z
 startTime: 2023-03-03T04:37:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
