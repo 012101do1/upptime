@@ -1,7 +1,7 @@
 url: https://pterodactyl.0121.org
-status: up
-code: 200
-responseTime: 256
-lastUpdated: 2024-03-04T23:14:10.927Z
+status: down
+code: 502
+responseTime: 3344
+lastUpdated: 2024-03-04T23:38:24.488Z
 startTime: 2023-03-03T04:37:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
