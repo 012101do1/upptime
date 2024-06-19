@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 706,
-    "timeDay": 292,
-    "timeWeek": 320,
-    "timeMonth": 351,
+    "time": 705,
+    "timeDay": 290,
+    "timeWeek": 311,
+    "timeMonth": 352,
     "timeYear": 610,
     "dailyMinutesDown": {
       "2024-05-10": 41,
@@ -29,8 +29,7 @@
       "2023-06-28": 16,
       "2023-06-26": 22,
       "2023-06-24": 84,
-      "2023-06-23": 19,
-      "2023-06-20": 30
+      "2023-06-23": 19
     }
   },
   {
@@ -42,12 +41,12 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.63%",
     "time": 692,
-    "timeDay": 721,
-    "timeWeek": 628,
-    "timeMonth": 657,
+    "timeDay": 569,
+    "timeWeek": 629,
+    "timeMonth": 656,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2024-05-22": 22,
@@ -76,8 +75,7 @@
       "2023-06-27": 60,
       "2023-06-24": 85,
       "2023-06-23": 19,
-      "2023-06-21": 116,
-      "2023-06-20": 155
+      "2023-06-21": 116
     }
   },
   {
@@ -92,9 +90,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.19%",
     "time": 796,
-    "timeDay": 270,
-    "timeWeek": 604,
-    "timeMonth": 1016,
+    "timeDay": 376,
+    "timeWeek": 670,
+    "timeMonth": 1008,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2024-06-17": 30,
@@ -143,8 +141,7 @@
       "2023-06-26": 22,
       "2023-06-24": 85,
       "2023-06-23": 278,
-      "2023-06-21": 123,
-      "2023-06-20": 56
+      "2023-06-21": 123
     }
   },
   {
@@ -153,15 +150,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.0121.org.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "93.64%",
     "uptimeWeek": "97.20%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "97.94%",
-    "time": 1243,
-    "timeDay": 814,
-    "timeWeek": 884,
-    "timeMonth": 1059,
+    "time": 1244,
+    "timeDay": 742,
+    "timeWeek": 876,
+    "timeMonth": 1055,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2024-06-18": 92,
@@ -260,18 +257,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.0121.org.ico",
     "slug": "pterodactyl",
     "status": "down",
-    "uptime": "96.69%",
+    "uptime": "96.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.63%",
-    "uptimeYear": "95.74%",
+    "uptimeMonth": "49.91%",
+    "uptimeYear": "95.52%",
     "time": 749,
-    "timeDay": 3392,
-    "timeWeek": 3292,
-    "timeMonth": 1794,
-    "timeYear": 682,
+    "timeDay": 3329,
+    "timeWeek": 3287,
+    "timeMonth": 1885,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2024-06-18": 341,
+      "2024-06-19": 93,
+      "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
@@ -304,8 +302,7 @@
       "2023-06-28": 42,
       "2023-06-24": 84,
       "2023-06-23": 15,
-      "2023-06-21": 70,
-      "2023-06-20": 679
+      "2023-06-21": 70
     }
   }
 ]
