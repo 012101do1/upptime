@@ -1,7 +1,7 @@
 url: https://ombi.0121.org
-status: up
-code: 200
-responseTime: 689
-lastUpdated: 2024-09-23T14:06:42.509Z
+status: down
+code: 502
+responseTime: 3368
+lastUpdated: 2024-09-23T19:45:41.002Z
 startTime: 2023-03-03T04:37:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
