@@ -11,8 +11,7 @@ sites:
     url: https://ombi.0121.org
   - name: Nextcloud
     url: https://nextcloud.0121.org
-  - name: Pterodactyl
-    url: https://pterodactyl.0121.org
+
 
 assignees:
   - 012101do1
