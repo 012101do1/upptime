@@ -51,17 +51,17 @@
     "url": "https://ombi.0121.org",
     "icon": "https://icons.duckduckgo.com/ip3/ombi.0121.org.ico",
     "slug": "ombi",
-    "status": "up",
-    "uptime": "51.69%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "51.72%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "86.68%",
-    "uptimeYear": "7.93%",
-    "time": 1612,
-    "timeDay": 806,
-    "timeWeek": 977,
-    "timeMonth": 4322,
-    "timeYear": 3775,
+    "uptimeYear": "8.18%",
+    "time": 1629,
+    "timeDay": 2065,
+    "timeWeek": 1211,
+    "timeMonth": 4294,
+    "timeYear": 3764,
     "dailyMinutesDown": {
       "2026-06-29": 105,
       "2026-06-28": 1440,
@@ -400,7 +400,8 @@
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 620,
-      "2026-07-28": 46
+      "2026-07-28": 46,
+      "2026-08-01": 1
     }
   },
   {
@@ -408,17 +409,17 @@
     "url": "https://nextcloud.0121.org",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.0121.org.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "51.79%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "51.83%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.10%",
     "uptimeMonth": "86.05%",
-    "uptimeYear": "7.88%",
-    "time": 1290,
-    "timeDay": 1473,
-    "timeWeek": 1722,
-    "timeMonth": 1594,
-    "timeYear": 1586,
+    "uptimeYear": "8.12%",
+    "time": 1305,
+    "timeDay": 2474,
+    "timeWeek": 1868,
+    "timeMonth": 1646,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2026-06-29": 105,
       "2026-06-28": 1440,
@@ -758,7 +759,8 @@
       "2026-07-11": 1440,
       "2026-07-10": 615,
       "2026-07-17": 133,
-      "2026-07-28": 191
+      "2026-07-28": 191,
+      "2026-08-01": 0
     }
   }
 ]
